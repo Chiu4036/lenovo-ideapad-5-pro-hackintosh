@@ -1,5 +1,7 @@
 # lenovo-ideapad-5-pro-hackintosh
+
 I managed to install macOS monterey on my 11th gen intel tiger lake device!
+
 1.key specs
 cpu：11th gen 1155g7
 gpu: intel iris xe uma graphics
