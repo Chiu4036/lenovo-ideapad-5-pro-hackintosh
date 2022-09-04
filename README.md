@@ -24,7 +24,7 @@ integrated camera
 
 3.need to work
 
-gpu--casues lag and irrespondence in the transition animation of minimized windows
+gpu--casues lag and irrespondence in the transition animation of minimizing windows
 
 bluetooth--driver is successfully loaded but won't work
 
